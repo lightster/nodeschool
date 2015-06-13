@@ -5,3 +5,4 @@ npm install split
 npm install concat-stream
 npm install request
 npm install websocket-stream
+npm install trumpet
