@@ -7,3 +7,4 @@ npm install request
 npm install websocket-stream
 npm install trumpet
 npm install duplexer
+npm install stream-combiner
