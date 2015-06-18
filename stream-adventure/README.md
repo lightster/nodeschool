@@ -8,4 +8,5 @@ npm install websocket-stream
 npm install trumpet
 npm install duplexer
 npm install stream-combiner
-npm install crypt
+npm install crypto
+npm install tar
