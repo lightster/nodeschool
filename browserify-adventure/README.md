@@ -2,3 +2,5 @@
 npm install -g browserify-adventure
 npm install uniq
 npm install domify
+npm install brfs
+npm install sprintf
