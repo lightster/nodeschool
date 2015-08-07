@@ -6,3 +6,4 @@ npm install brfs
 npm install sprintf
 npm install insert-css
 npm install events
+npm install browserify-shim
