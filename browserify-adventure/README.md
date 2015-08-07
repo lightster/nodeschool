@@ -4,3 +4,5 @@ npm install uniq
 npm install domify
 npm install brfs
 npm install sprintf
+npm install insert-css
+npm install events
